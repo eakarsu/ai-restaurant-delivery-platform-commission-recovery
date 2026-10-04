@@ -10,7 +10,7 @@ export default defineApp({
   "apiPort": 5583,
   "accent": "#be123c",
   "currency": "USD",
-  "primaryOutcome": "Unsupported delivery-platform deductions converted into settlement corrections and location-level margin improvement",
+  "primaryOutcome": "Assess restaurant-level commission exceptions and track documented platform credit evidence",
   "valueNarrative": "Match platform agreements and orders to POS tickets, promotions, cancellations, refunds, taxes, virtual cards, sponsored listings, and settlements.",
   "calculation": {
     "actualKey": "chargedFees",
